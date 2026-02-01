@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://co0yvevng62e0"
-path="res://.godot/imported/grass_mesh.glb-d914b2056ede89bc89b51865cfdcd445.scn"
+uid="uid://dheiwcfoujdsb"
+path="res://.godot/imported/4_sided_dice.glb-476c89ab97aa2d9ccc89e3dd9530b592.scn"
 
 [deps]
 
-source_file="res://Assets/grass_mesh.glb"
-dest_files=["res://.godot/imported/grass_mesh.glb-d914b2056ede89bc89b51865cfdcd445.scn"]
+source_file="res://Assets/dice/4_sided_dice.glb"
+dest_files=["res://.godot/imported/4_sided_dice.glb-476c89ab97aa2d9ccc89e3dd9530b592.scn"]
 
 [params]
 
